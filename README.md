@@ -10,7 +10,7 @@ These are robotics tasks I did as part of my University Module. There were two m
 - Command the robot to follow set waypoints in a map, whilst having simple obstacle detection and avoidance using the robots Laser Scanner
     - The robot also will generate a map (2D Occupancy Grid Map) by running the cartographer node in ROS2. Which uses the SLAM Algorithm.
 
-For both of these tasks, I programmed a Proportional, Integral, Differential (PID) Control Algorithm.
+For both of these tasks, I programmed a Proportional, Integral, Derivative (PID) Control Algorithm.
 
 # Overview of the codes
 - **waypont_follow.py**: Code for the second task. Move to waypoints in an area/room using PID and avoid obstacles using the laser scanner 
