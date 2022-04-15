@@ -16,7 +16,7 @@ For both of these tasks, I programmed a Proportional, Integral, Derivative (PID)
 - **waypont_follow.py**: Code for the second task. Move to waypoints in an area/room using PID and avoid obstacles using the laser scanner 
 - **my_node.py**: Code for the first task, i.e., to track a square trajectory using PID
 - **random_move.py**: Code to allow the robot to move randomly in a free space while avoiding obstacles
-- pv_ndde.py: A test code, to understand publishing velocity in ROS2
+- pv_node.py: A test code, to understand publishing velocity in ROS2
 - hw_node.py: Just a simple test node, prints hello world to terminal
 - sl_node.py: A test code, to understand subscribing to laser data in ROS2
 - so_node.py: A test code, to understand subscribing to robot odometry data in ROS2
