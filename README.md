@@ -6,7 +6,7 @@ This was carried out in the Robotics Operating System 2 (ROS2) environment using
   
 # Details about the task
 These are robotics tasks I did as part of my University Module. There were two main tasks
-- Trajectory Tracking, which makes the robot move in a square using a closed loop control system such as PID
+- Trajectory Tracking, which makes the robot move in a square (1 metre each side) using a closed loop control system such as PID
 - Command the robot to follow set waypoints in a map, whilst having simple obstacle detection and avoidance using the robots Laser Scanner
     - The robot also will generate a map (2D Occupancy Grid Map) by running the cartographer node in ROS2. Which uses the SLAM Algorithm.
 
